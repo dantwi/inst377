@@ -1,0 +1,43 @@
+#name {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(162, 171, 172);
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  #resume {
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+  
+  #goals {
+    float: left;
+    width: 47%;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  #goals img {
+    width: 80%;
+    height: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  #history {
+    float: right;
+    width: 47%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  #history h3 {
+    text-decoration: underline;
+    text-align: left;
+  }
+  
+  #history ul {
+    list-style-type: square;
+  }
+  
